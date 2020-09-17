@@ -6,7 +6,7 @@ Vue.config.productionTip = false
 import "./plugins/vant.js"
 import "./network/axios"
 import 'lib-flexible'
-
+// 
 
 
 import myTouch from './myTouch.js'
