@@ -1,7 +1,6 @@
 <template>
   <div class="poster-contains">
     <!-- 这是标题 -->
-    <section>
       <Title>
         <div slot="header" class="title-header">生成海报</div>
       </Title>
